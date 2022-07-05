@@ -18,7 +18,7 @@ spec:
         app: demo1
     spec:
       containers:
-      - image: BankingApplication:210
+      - image: BankingApplication:209
         name: demo1
         resources: {}
 status: {}
